@@ -1,4 +1,4 @@
-# Asynchronous-and-Synchronous-Chat
+# Asynchronous and Synchronous Chat
 Asynchronous and Synchronous Messaging app using sockets
 📘 Overview
 This project demonstrates how real-time chat systems can be implemented using Python’s socket programming in both synchronous (threaded) and asynchronous (asyncio) modes.
